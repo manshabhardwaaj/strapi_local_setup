@@ -1,4 +1,4 @@
-## Steps Performed
+##  TASK 1 Steps Performed
 
 1. Cloned the official Strapi repository to explore and understand its folder structure.
 2. Ran Strapi locally in development mode.
