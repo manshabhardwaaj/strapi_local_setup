@@ -1,3 +1,14 @@
+## Steps Performed
+
+1. Cloned the official Strapi repository to explore and understand its folder structure.
+2. Ran Strapi locally in development mode.
+3. Accessed the Strapi admin panel.
+4. Created a sample content type .
+5. Added a sample entry to verify the setup.
+6. Opened the project in VS Code to review the file structure.
+7. Pushed the local setup to my personal GitHub repository as instructed.
+8. Recorded a Loom video explaining the work done.
+
 # 🚀 Getting started with Strapi
 
 Strapi comes with a full featured [Command Line Interface](https://docs.strapi.io/dev-docs/cli) (CLI) which lets you scaffold and manage your project in seconds.
