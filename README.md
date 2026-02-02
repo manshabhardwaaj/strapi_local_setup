@@ -9,6 +9,7 @@
 7. Pushed the local setup to my personal GitHub repository as instructed.
 8. Recorded a Loom video explaining the work done.
 
+LOOM VIDEO LINK- https://www.loom.com/share/6d7d8c0ea637420e925bec80a704741c
 # 🚀 Getting started with Strapi
 
 Strapi comes with a full featured [Command Line Interface](https://docs.strapi.io/dev-docs/cli) (CLI) which lets you scaffold and manage your project in seconds.
